@@ -1,6 +1,6 @@
 {
-  "name": "idavoll/tag-module",
-  "description": "Tag management in AsgardCMS",
+  "name": "denisgold/tag-module",
+  "description": "Tag management in AsgardCMS by Denis Stoliarchuk",
   "type": "asgard-module",
   "license": "MIT",
   "keywords": [
@@ -10,8 +10,9 @@
   ],
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "n.widart@gmail.com"
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
+      "role": "Developer"
     }
   ],
   "require": {
